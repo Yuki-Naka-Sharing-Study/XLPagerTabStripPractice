@@ -69,7 +69,97 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="RvC-Tc-RV5" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-277" y="470"/>
+            <point key="canvasLocation" x="-326" y="480"/>
+        </scene>
+        <!--Fourth View Controller-->
+        <scene sceneID="OzS-GG-MU4">
+            <objects>
+                <viewController storyboardIdentifier="Fourth" useStoryboardIdentifierAsRestorationIdentifier="YES" id="e0r-tF-v7C" customClass="FourthViewController" customModule="XLPagerTabStripPractice" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="WSY-vl-pFw">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="KwV-ZH-ymb"/>
+                        <color key="backgroundColor" systemColor="systemGreenColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="u5e-ME-Ctw" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-327" y="1155"/>
+        </scene>
+        <!--Seventh View Controller-->
+        <scene sceneID="tzC-Kg-Jqd">
+            <objects>
+                <viewController storyboardIdentifier="Seventh" useStoryboardIdentifierAsRestorationIdentifier="YES" id="PiL-Y6-4dj" customClass="SeventhViewController" customModule="XLPagerTabStripPractice" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="NBD-Kl-jjd">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="SIa-G6-mPk"/>
+                        <color key="backgroundColor" systemColor="systemPurpleColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="10V-8m-meR" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-327" y="1834"/>
+        </scene>
+        <!--Eighth View Controller-->
+        <scene sceneID="Pdz-6i-hNy">
+            <objects>
+                <viewController storyboardIdentifier="Eighth" useStoryboardIdentifierAsRestorationIdentifier="YES" id="hVL-PC-jOQ" customClass="EighthViewController" customModule="XLPagerTabStripPractice" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="VyS-0u-I1d">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="Kau-6n-R4W"/>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="qpj-n6-74V" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="398" y="1834"/>
+        </scene>
+        <!--Nineth View Controller-->
+        <scene sceneID="ObK-1T-f1Z">
+            <objects>
+                <viewController storyboardIdentifier="Nineth" useStoryboardIdentifierAsRestorationIdentifier="YES" id="O9d-W1-dKx" customClass="NinethViewController" customModule="XLPagerTabStripPractice" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="rTy-FJ-go7">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="yLr-rI-fsP"/>
+                        <color key="backgroundColor" systemColor="systemBrownColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="63w-H9-lHz" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1131" y="1834"/>
+        </scene>
+        <!--Fifth View Controller-->
+        <scene sceneID="4tf-DL-8X7">
+            <objects>
+                <viewController storyboardIdentifier="Fifth" useStoryboardIdentifierAsRestorationIdentifier="YES" id="K6s-Fw-4km" customClass="FifthViewController" customModule="XLPagerTabStripPractice" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="MAK-4i-NNP">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="bbN-cs-qnc"/>
+                        <color key="backgroundColor" systemColor="systemMintColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="2XU-hS-Ad9" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="398" y="1155"/>
+        </scene>
+        <!--Sixth View Controller-->
+        <scene sceneID="ER0-FJ-cRg">
+            <objects>
+                <viewController storyboardIdentifier="Sixth" useStoryboardIdentifierAsRestorationIdentifier="YES" id="RQy-vH-F91" customClass="SixthViewController" customModule="XLPagerTabStripPractice" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="ae0-wU-jeh">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="kzU-WG-02O"/>
+                        <color key="backgroundColor" systemColor="systemBlueColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="X9Z-qb-wW3" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1131" y="1155"/>
         </scene>
         <!--Second View Controller-->
         <scene sceneID="s9z-RC-6hb">
@@ -84,7 +174,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="RHc-iI-QHO" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="398" y="471"/>
+            <point key="canvasLocation" x="398" y="480"/>
         </scene>
         <!--Third View Controller-->
         <scene sceneID="58L-4B-RtB">
@@ -99,15 +189,30 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hsy-Wo-SQk" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1082" y="470"/>
+            <point key="canvasLocation" x="1131" y="480"/>
         </scene>
     </scenes>
     <resources>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
+        <systemColor name="systemBlueColor">
+            <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemBrownColor">
+            <color red="0.63529411764705879" green="0.51764705882352946" blue="0.36862745098039218" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemGreenColor">
+            <color red="0.20392156862745098" green="0.7803921568627451" blue="0.34901960784313724" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemMintColor">
+            <color red="0.0" green="0.7803921568627451" blue="0.74509803921568629" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
         <systemColor name="systemOrangeColor">
             <color red="1" green="0.58431372549019611" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemPurpleColor">
+            <color red="0.68627450980392157" green="0.32156862745098042" blue="0.87058823529411766" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="systemRedColor">
             <color red="1" green="0.23137254901960785" blue="0.18823529411764706" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
